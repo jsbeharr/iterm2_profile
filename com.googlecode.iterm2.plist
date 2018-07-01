@@ -2271,17 +2271,21 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 205 606 469 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>230 133 796 473 0 0 1280 800 </string>
+	<string>402 183 1018 447 0 0 1280 778 </string>
 	<key>NSWindow Frame com.apple.typography_panel_InconsolataForPowerline</key>
 	<string>212 475 260 46 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>38 313 600 412 0 0 1280 778 </string>
+	<string>149 274 600 412 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>640 366 600 412 0 0 1280 778 </string>
+	<string>0 366 600 412 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>0 57 1280 721 0 0 1280 800 </string>
+	<string>0 365 600 412 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>582 145 600 412 0 0 1280 778 </string>
+	<key>NeverWarnAboutShortLivedSessions_E37DE4E6-4673-4896-B7CE-4B05EC2100EA</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_E37DE4E6-4673-4896-B7CE-4B05EC2100EA_selection</key>
+	<integer>0</integer>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -3134,7 +3138,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-06-12T09:40:07Z</date>
+	<date>2018-06-24T17:03:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
